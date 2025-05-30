@@ -1,0 +1,5 @@
+# Don't save any huge sound files
+data/**/*.mid
+data/**/*.midi
+data/**/*.wav
+data/**/*.mp3
