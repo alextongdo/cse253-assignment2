@@ -3,3 +3,6 @@ data/**/*.mid
 data/**/*.midi
 data/**/*.wav
 data/**/*.mp3
+preprocessed
+gen_res
+__pycache__
